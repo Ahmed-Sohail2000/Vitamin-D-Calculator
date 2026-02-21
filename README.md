@@ -1,5 +1,6 @@
 ## Overview
 - The Vitamin-D Calculator is a digital healthcare tool designed to provide accurate, personalized vitamin D supplementation recommendations for healthcare providers and patients. This calculator addresses critical gaps in vitamin D prescription accuracy, digital integration, and patient monitoring across Germany and Austria.
+- Tim
 
 ### Problem Statement
 Healthcare providers currently face multiple challenges in vitamin D supplementation management:
